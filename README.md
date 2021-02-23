@@ -32,7 +32,7 @@ To open a project on your computer:
 # Technologies
 
 * Adobe After Effects (background picture)
-* html
+* HTML
+* JavaScript 
 * p5.js
-* javaScript
 * CSS
