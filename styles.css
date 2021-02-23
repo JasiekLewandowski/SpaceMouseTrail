@@ -1,0 +1,44 @@
+body {
+  font-family: "Montserrat", sans-serif;
+    text-align: center;
+    background-color: black;
+  background-image: url("images/sun_main4.png");
+  background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.colored-section {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  width: 100%;
+    padding: 0 0 4.5rem;
+    background-color: black;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+.background-effect {
+  background-image: url("images/sun_main.png");
+  /* position: absolute;
+  z-index: -1; */
+}
+
+.title-image {
+  width:100%;
+}
