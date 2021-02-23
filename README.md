@@ -14,14 +14,18 @@ This project contains mouse trail effect for web pages.
 ### Mouse Trail Effect:  
   
 ![fullimage](/readme-pictures/3.png)
+  
+  
+# How to open
+The effect works only in desktop version of browsers.
+  
+To open project inside your browser:
+1. Download project files.  
+2. Duble click on 'index.html' file to open it inside your browser.  
 
 # Technologies
 
-OderApp is created with:
-
-* Spring Boot 2.4.1
-* Maven
-* H2 Database Engine
-* Lombok
-* Junit 5
-* Mockito
+* html
+* p5.js
+* javaScript
+* CSS
