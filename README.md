@@ -30,7 +30,7 @@ To open a project on your computer:
   
     
 # Technologies
-
+  
 * Adobe After Effects (background picture)
 * HTML
 * JavaScript 
