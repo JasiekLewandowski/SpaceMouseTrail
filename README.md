@@ -6,9 +6,10 @@ This project contains mouse trail effect for web pages.
 
 
 # Visualisation
+<br />
 Full page:
 ![fullimage](/readme-pictures/full.png)
-
+<br />
 Mouse Trail Effect:
 ![fullimage](/readme-pictures/3.png)
 
