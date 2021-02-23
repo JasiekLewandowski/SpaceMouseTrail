@@ -20,7 +20,7 @@ This project contains mouse trail effect for web pages.
 !The effect works only in desktop version of browsers!
 
 #### Link
-To open project inside your browser, click on the link below: 
+To open project inside your browser, click on the link below:   
 https://jasieklewandowski.github.io/SpaceMouseTrail/
  
 #### Files
