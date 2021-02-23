@@ -1,7 +1,7 @@
-var inc = 0.002;
 var x;
-var y
+var y;
 var particles = [];
+var inc = 0.002;
 var fullAlphaDistance = 40;
 var mediumAlphaDistance = 100;
 
@@ -15,7 +15,6 @@ var mouse = {
   y: undefined
 }
 
-//EventListener
 window.addEventListener("mousemove", function(event) {
   mouse.x = event.x;
   mouse.y = event.y;
@@ -30,7 +29,6 @@ function Particle(x, y, radius, xoff1, xoff2) {
   this.xoff1 = xoff1;
   this.xoff2 = xoff2;
   this.radius = radius;
-  // this.color = color;
 
   this.create = function() {
     strokeWeight(0);
