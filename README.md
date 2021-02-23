@@ -1,5 +1,5 @@
 # Space Mouse Trail Effect
-ALL ELEMENTS OF THIS PROJECT (INCLUDING BACKGROUND PICTURE) WERE CREATED BY ME
+All elements of this project (including background picture) were created independently for the project by myself. 
 
 # About
 This project contains mouse trail effect for web pages. 
