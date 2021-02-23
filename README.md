@@ -1,14 +1,13 @@
-# OrderApp
+# Space Mouse Trail Effect
+#*ALL ELEMENTS OF THIS PROJECT (INCLUDING BACKGROUND PICTURE) WERE CREATED BY ME
 
-OrderApp is a simple web application for customer service in a bar.
+# About
+This project contains mouse trail effect for web pages. 
 
-# Features
 
-- Add new product
-- Get list of avaible products
-- Place an order
-- Get list of placed orders
-- Generate receipt (pay)
+# Visualisation
+
+![](readme-pictures/filename full.png)
 
 # Technologies
 
