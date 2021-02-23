@@ -25,6 +25,7 @@ To open project inside your browser:
 
 # Technologies
 
+* Adobe After Effects (background picture)
 * html
 * p5.js
 * javaScript
